@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab05</string>
+    <string name="save">Zapisz</string>
+    <string name="read">Czytaj</string>
+    <string name="filename">Nazwa pliku</string>
+
+
+</resources>
